@@ -36,3 +36,11 @@
     vertical-align: bottom;
 
 }
+
+.gmap{
+    border-width: 2px;
+}
+
+.swing{
+    animation-duration: 1.5s;
+}
