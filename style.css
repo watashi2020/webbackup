@@ -1,0 +1,38 @@
+
+
+.site-header.hidden-xs{
+    display: flex;
+    margin-bottom: -5px;
+    justify-content: center;
+}
+.site-brand, .site-logo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 6px;
+}
+.left_small_para{
+    text-align: center;
+    /* line-height: 1.6; */
+    /* font-size:10px; */
+    font-weight: lighter;
+}
+.pinkoi{
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.pinkoi:hover{
+    transition: 0.5s;
+    
+}
+
+.inbloom{
+    font-size: 10px;
+}
+
+.btn_course{
+    display:flex;
+    vertical-align: bottom;
+
+}
