@@ -65,9 +65,9 @@
 }
 
 .btn_course{
-    display:flex;
+    
     vertical-align: bottom;
-    width:70px;
+    /* width:70px; */
     border-radius: 20px;
     padding:2px 20px;
 }
