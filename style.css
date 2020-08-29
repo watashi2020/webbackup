@@ -67,7 +67,7 @@
 .btn_course{
     display:flex;
     vertical-align: bottom;
-
+    width:74px;
 }
 
 .gmap{
