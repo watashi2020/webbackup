@@ -6,105 +6,109 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
-  <loc>https://watashi2020.github.io/website.jlhouse/</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <loc>https://watashi2020.github.io/jl.soap/</loc>
+  <lastmod>2020-08-30T02:15:51+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://watashi2020.github.io/website.jlhouse/</loc>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
   <loc>https://watashi2020.github.io/website.jlhouse/index.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/about.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/services.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E7%8E%AB%E7%91%B0%E4%BA%BA%E7%94%9F.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E6%B2%99%E6%BC%A0%E7%B6%A0%E6%B4%B2.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E7%B2%89%E7%B4%85%E6%B3%A2%E6%B3%A2.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E6%8E%92%E6%AF%92%E5%B0%8F%E6%97%85%E8%A1%8C.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E5%A5%B3%E6%80%A7%E7%A6%AE%E7%89%A9.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E8%9C%82%E5%92%8C%E6%97%A5%E9%BA%97.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E6%99%9A%E5%AE%89%E8%96%B0%E6%B3%A1.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E9%BB%83%E9%87%91%E9%9B%A8.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E8%8D%89%E8%8E%93%E9%9B%AA%E5%85%8B.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E7%B6%A0%E6%A3%AE%E6%9E%97.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E6%A3%AE%E6%9E%97%E6%B4%97%E9%AB%AE%E7%9A%82.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E8%9C%82%E8%9C%9C%E8%89%BE%E8%8D%89.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E6%97%85%E8%A1%8C%E6%89%8B%E5%B7%A5%E7%9A%82%E7%B5%84.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E8%89%BE%E8%8D%89%E8%93%AC%E8%93%AC.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E9%BB%91%E6%BD%AE.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://watashi2020.github.io/website.jlhouse/%E7%B4%85%E5%85%8B%E8%95%BE.html</loc>
-  <lastmod>2020-08-29T14:01:47+00:00</lastmod>
+  <lastmod>2020-08-29T16:58:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
