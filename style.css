@@ -6,11 +6,14 @@
     justify-content: center;
 }
 
-.site-brand, .site-logo{
+
+
+.site-brand, .site-logo {
     display: flex;
     justify-content: center;
     text-align: center;
     margin-left: 0px;
+    padding: 0px 30px;
 }
 
 .jl_logo{
@@ -39,14 +42,42 @@
     font-weight: lighter;
     margin-right: 0px;
     margin-left: 0px;
+    padding-bottom: 26px;
 }
 .sidebar{
     padding: 30px 10px 30px 10px;
     width: 225px;
 }
 
+
 .nav>li>a{
     padding: 2px 33px;
+}
+
+.nav{
+    
+    line-height: normal;
+}
+
+#pinkoi-sub {
+    padding-left: 4px;
+    padding-top: 1px;
+    color: #555;
+    line-height: 1.2;
+    font-size: 13px;
+}
+#pinkoi-sub *{
+    color: #555;
+}
+
+#pinkoi-sub *:hover{
+    color: #ff6360;
+}
+
+.nav-footer {
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 5px;
 }
 
 
@@ -193,3 +224,4 @@ ul.share-buttons{
     margin-bottom: 8px;
 }
 /* end of 3顆按鈕 */
+
